@@ -1,0 +1,13 @@
+body{
+background-color:gray;
+background-image:url("/home/Sem6B10/Desktop/660/index.jpeg");
+background-attachment:fixed;
+}
+h1{
+color:maroon;
+margin-left:100px;
+margin-top:100px;
+}
+p{
+color:blue;
+}
