@@ -49,8 +49,19 @@ h1{
 	width:300px;
 }
 img:hover{
-	border:3px dashed white;
+	border-color:white red green blue;
+	border-style:dashed;
+	border-width:3px 6px 9px 20px;
 }
 img{
 	opacity:0.4;
-} 
+	margin: 25px 50px 75px 100px;
+}
+div{
+	width:200px;
+	margin:auto;
+	border:1px solid white;
+}
+h5{
+	color:white;
+	}
